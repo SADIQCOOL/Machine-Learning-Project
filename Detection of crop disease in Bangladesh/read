@@ -1,1 +1,10 @@
-
+Used machine learning models
+Dataset collected from https://www.kaggle.com/datasets/nafishamoin/new-bangladeshi-crop-disease?fbclid=IwAR1vlKqD2V-MxQ6aWKUR5kDh24gIn6fE6tzXCGoE5KuJ0Blc0GrgCuYHDT0
+Total number of classes = 14
+Total number of images = 13,024
+Class Labels: CornCommonRust, CornGrayLeafSpot, CornHealthy, CornNorthernLeafBlight, PotatoEarlyBlight, PotatoHealthy, PotatoLateBlight, RiceBrownSpot, RiceHealthy, RiceLeafBlast, RiceNeckBlast, WheatBrownRust, WheatHealthy, WheatYellowRust.
+Common Rust (1192 images)
+Gray Leaf Spot (513 images)
+Healthy (1162 images)
+Northern Leaf Blight (985 images)
+Total images: 3852 images
